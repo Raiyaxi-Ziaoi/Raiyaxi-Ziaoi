@@ -95,6 +95,14 @@
     <code>
         <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsveltejs%2Fsvelte%2F29052aba7d0b78316d3a52aef1d7ddd54fe6ca84%2Fsite%2Fstatic%2Fimages%2Fsvelte-android-chrome-512.png&f=1&nofb=1">
     </code>
+        &nbsp;
+    <code>
+        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fbootstrap-6-1175203.png&f=1&nofb=1">
+    </code>
+        &nbsp;
+    <code>
+        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcloud.google.com%2Fimages%2Fproducts%2Fkotlin%2Fktor-logo.png&f=1&nofb=1">
+    </code>
     <br/>
 </div>
 
