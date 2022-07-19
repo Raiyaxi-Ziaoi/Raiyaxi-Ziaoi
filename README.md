@@ -63,6 +63,14 @@
     <code>
         <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
     </code>
+        &nbsp;
+    <code>
+        <img height="60" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F101-1010012_download-png.png&f=1&nofb=1">
+    </code>
+        &nbsp;
+    <code>
+        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+    </code>
 
 <br/><br/>
 
@@ -184,8 +192,8 @@
     <b><ul>
         <li>CS:</li>
         <ul>
-            <li>CS in Medicine</li>
-            <li>C.Graphy & C.Security</li>
+            <li>CS for Medicine</li>
+            <li>Cryptography & Cybersecurity</li>
             <li>ML & AI</li>
             <li>Web 🌐, Mobile 📱, Desktop 💻 & Game 🎮 Dev</li>
         </ul>
