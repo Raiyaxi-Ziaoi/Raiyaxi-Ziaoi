@@ -147,6 +147,14 @@
     <code>
         <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FNode_logo_NodeJS.png&f=1&nofb=1">
     </code>
+        &nbsp;
+    <code>
+        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG67.png&f=1&nofb=1">
+    </code>
+        &nbsp;
+    <code>
+        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fitch-io-icon-512x512-wwio9bi8.png&f=1&nofb=1">
+    </code>
     <br/>
 </div>
 
