@@ -49,19 +49,19 @@
 <hr>
 <div align="left"> 
     <code>
-        <img height="60" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1536x868.png">
+        <img height="80" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1536x868.png">
     </code>
         &nbsp;
     <code>
-        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+        <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     </code>
          &nbsp;
     <code>
-        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+        <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
     </code>
          &nbsp;
     <code>
-        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+        <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
     </code>
 
 <br/><br/>
