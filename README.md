@@ -164,7 +164,7 @@
         <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fitch-io-icon-512x512-wwio9bi8.png&f=1&nofb=1">
     </code>
     <code>
-        <img height="85" src="https://imgur.com/a/O7Mc28d">
+        <img height="85" src="https://i.imgur.com/EdtQJnH.png">
     </code>
     <br/>
 </div>
