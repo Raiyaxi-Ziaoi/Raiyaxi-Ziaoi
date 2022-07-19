@@ -20,7 +20,7 @@
         صبح بخیر، السلام علیکم ای دوستانم!
         <br/>
         <br/>
-        !Bonjour, salaam aleïkum mes amis
+        !Bonjour, que la paix soit sur vous tous mes amis
         <br/>
         <br/>
 </h3>
@@ -31,8 +31,11 @@
     <img src="https://avatars.githubusercontent.com/u/82474669?s=400&u=509537bc1ee4fb1ece87e1e95946c7a9aa53860b&v=4" align="right" width="25%" />
 </a>
 
+<div align="center">
+
 #### About me
 
+</div>
 <hr>
 <h3>
     My name is Raiyaxi Ziaoi. I enjoy CS, languages and other fun things. <br/>
