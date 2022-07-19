@@ -69,7 +69,7 @@
     </code>
         &nbsp;
     <code>
-        <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+        <img height="60" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fisocpp%2Flogos%2Fmaster%2Fcpp_logo.png&f=1&nofb=1">
     </code>
 
 <br/><br/>
