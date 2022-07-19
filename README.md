@@ -203,7 +203,7 @@
         </ul>
         <li>Other:</li>
         <ul>
-            <li>Poetry 📜, Math & Sci 🔬</li>
+            <li>Poetry 📜, Mathematics & Science 🔬</li>
             <li>Anime 💻, Games 🎮</li>
         </ul>
     </ul></b>
