@@ -20,7 +20,7 @@
         صبح بخیر، السلام علیکم ای دوستانم!
         <br/>
         <br/>
-        !Bonjour, que la paix soit sur vous tous mes amis
+        !Bonjour, que la paix soit sur vous tous, mes amis
         <br/>
         <br/>
 </h3>
@@ -188,12 +188,12 @@
             <li>Cryptography & Cybersecurity</li>
             <li>ML & AI</li>
             <li>Web 🌐, Mobile 📱, Desktop 💻 & Game 🎮 Dev</li>
-        </ul>
-        <li>Programming:</li>
-        <ul>
-            <li>Java, Python, C# ✨</li>
-            <li>Kotlin, Dart, JS / TS 🤔</li>
-            <li>Rust, C / C++, Ruby, Julia 📚</li>
+            <li>Programming:</li>
+            <ul>
+                <li>Java, Python, C# ✨</li>
+                <li>Kotlin, Dart, JS / TS 🤔</li>
+                <li>Rust, C / C++, Ruby, Julia 📚</li>
+            </ul>
         </ul>
         <li>Languages:</li>
         <ul>
