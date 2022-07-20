@@ -49,19 +49,19 @@
 <hr>
 <div align="left"> 
     <code>
-        <img height="80" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1536x868.png">
+        <img height="70" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1536x868.png">
     </code>
         &nbsp;
     <code>
-        <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     </code>
          &nbsp;
     <code>
-        <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
     </code>
          &nbsp;
     <code>
-        <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
     </code>
 
 <br/><br/>
@@ -77,31 +77,31 @@
 <hr>
 <div align="left">
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2Ft84NGUdrRy69bwIK12Ml&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2Ft84NGUdrRy69bwIK12Ml&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png">
+        <img height="70" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://fabacademy.org/2020/labs/talents/students/sarah-alghofaili/images/week13/Processing_3_logo-min.png">
+        <img height="70" src="https://fabacademy.org/2020/labs/talents/students/sarah-alghofaili/images/week13/Processing_3_logo-min.png">
     </code>
         &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsveltejs%2Fsvelte%2F29052aba7d0b78316d3a52aef1d7ddd54fe6ca84%2Fsite%2Fstatic%2Fimages%2Fsvelte-android-chrome-512.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsveltejs%2Fsvelte%2F29052aba7d0b78316d3a52aef1d7ddd54fe6ca84%2Fsite%2Fstatic%2Fimages%2Fsvelte-android-chrome-512.png&f=1&nofb=1">
     </code>
         &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fbootstrap-6-1175203.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fbootstrap-6-1175203.png&f=1&nofb=1">
     </code>
         &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcloud.google.com%2Fimages%2Fproducts%2Fkotlin%2Fktor-logo.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcloud.google.com%2Fimages%2Fproducts%2Fkotlin%2Fktor-logo.png&f=1&nofb=1">
     </code>
     <br/>
 </div>
@@ -111,31 +111,31 @@
 <hr>
 <div align="left">
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F80%2FAtom_editor_logo.svg%2F1118px-Atom_editor_logo.svg.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F80%2FAtom_editor_logo.svg%2F1118px-Atom_editor_logo.svg.png&f=1&nofb=1">
     </code>
          &nbsp;
     <code> 
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fintellij-idea-logo.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fintellij-idea-logo.png&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mindrops.com%2Fimages%2Ftechnology-icon%2Feclipse-logo.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mindrops.com%2Fimages%2Ftechnology-icon%2Feclipse-logo.png&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-RH0O7wYQXUc%2FVozSayGFPlI%2FAAAAAAAALjc%2Fnhg8bQ_PQR8%2Fs1600%2FAndroid_Studio_icon.svg.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-RH0O7wYQXUc%2FVozSayGFPlI%2FAAAAAAAALjc%2Fnhg8bQ_PQR8%2Fs1600%2FAndroid_Studio_icon.svg.png&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6471485%3Fv%3D3%26s%3D400&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6471485%3Fv%3D3%26s%3D400&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/arduino/arduino.png">
+        <img height="70" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/arduino/arduino.png">
     </code>
     <br/>
 </div>
@@ -145,23 +145,23 @@
 <hr>
 <div align="left">
     <code> 
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-vitejs-vite_-_2021-02-20_21-03-38%2Fcover.jpg&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-vitejs-vite_-_2021-02-20_21-03-38%2Fcover.jpg&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FBlender-Embleme-1536x869.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FBlender-Embleme-1536x869.png&f=1&nofb=1">
     </code>
          &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FNode_logo_NodeJS.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FNode_logo_NodeJS.png&f=1&nofb=1">
     </code>
         &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG67.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG67.png&f=1&nofb=1">
     </code>
         &nbsp;
     <code>
-        <img height="85" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fitch-io-icon-512x512-wwio9bi8.png&f=1&nofb=1">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fitch-io-icon-512x512-wwio9bi8.png&f=1&nofb=1">
     </code>
     <br/>
 </div>
