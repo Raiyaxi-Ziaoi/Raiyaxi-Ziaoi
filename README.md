@@ -253,8 +253,6 @@
      </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <br/><br/><br/><br/>
 
 <div width="100">
@@ -262,6 +260,8 @@
         <img align="center" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Raiyaxi-Lang&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
 </div>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories"> 
