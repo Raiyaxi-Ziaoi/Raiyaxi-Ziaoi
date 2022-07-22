@@ -195,8 +195,8 @@
             <li>Programming:</li>
             <ul>
                 <li>Java, Python, C# ✨</li>
-                <li>Kotlin, Dart, JS / TS 🤔</li>
-                <li>Rust, C / C++, Ruby, Julia 📚</li>
+                <li>Kotlin, Dart, Rust 🤔</li>
+                <li>JS / TS, C / C++, Ruby, Julia 📚</li>
             </ul>
         </ul>
         <li>Languages:</li>
