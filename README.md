@@ -57,15 +57,15 @@
     </code>
          &nbsp;
     <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiqh.gallerycdn.vsassets.io%2Fextensions%2Fmiqh%2Fvscode-language-rust%2F0.14.0%2F1536151476041%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1">
+    </code>
+         &nbsp;
+    <code>
         <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
     </code>
          &nbsp;
     <code>
         <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiqh.gallerycdn.vsassets.io%2Fextensions%2Fmiqh%2Fvscode-language-rust%2F0.14.0%2F1536151476041%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1">
     </code>
 
 <br/><br/>
