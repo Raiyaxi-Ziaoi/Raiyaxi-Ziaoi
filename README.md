@@ -280,7 +280,7 @@
 </h4>
 
 <h2 align="center">
-  This was copied from my fellow اخي, Ahmed Al-Taie. His profile is 
+  This was copied from my fellow اخ, Ahmed Al-Taie. His profile is 
   <a href="https://github.com/Al-Taie" title="Al-Taie">here<a>. 
   شكرا! :) 
 </h2>
