@@ -205,7 +205,7 @@
         <ul>
             <li>English, Bengali, Hindi ✨</li>
             <li>Urdu, Arabic 🤔</li>
-            <li>Turkish, Persian, French, Russian, Japanese, Chinese, Korean, Indoneasian, Hebrew 📚</li>
+            <li>Turkish, Persian, French, Russian, Japanese, Chinese, Korean, Indoneasian 📚</li>
         </ul>
         <li>Other:</li>
         <ul>
