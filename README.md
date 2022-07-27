@@ -72,7 +72,7 @@
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiyaxi-Ziaoi&layout=compact&langs_count=04&theme=dracula&hide_border=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiyaxi-Ziaoi&theme=dracula)](https://github.com/Raiyaxi-Ziaoi/github-readme-stats)
 
 <br/>
 
