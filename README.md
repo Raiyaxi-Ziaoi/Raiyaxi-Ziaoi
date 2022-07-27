@@ -273,7 +273,7 @@
     </a>
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>&nbsp;
 
 <div align="center" width="100">
     <a align="center" href="https://github.com/Raiyaxi-Ziaoi/Raiyaxi-App" title="Raiyaxi App">
@@ -281,7 +281,7 @@
     </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories"> 
