@@ -72,11 +72,13 @@
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiyaxi-Ziaoi&theme=dracula)](https://github.com/Raiyaxi-Ziaoi/github-readme-stats)
+![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <br/>
 
-</div>
+<!--https://github.com/jstrieb/github-stats-->
 
 #### Frameworks / API's
 
