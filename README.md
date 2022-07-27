@@ -273,6 +273,14 @@
     </a>
 </div>
 
+<br/><br/><br/><br/>
+
+<div align="center" width="100">
+    <a align="center" href="https://github.com/Raiyaxi-Ziaoi/Raiyaxi-App" title="Raiyaxi App">
+        <img align="center" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Raiyaxi-App&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
+    </a>
+</div>
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
