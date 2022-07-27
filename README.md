@@ -33,11 +33,11 @@
     <img src="https://avatars.githubusercontent.com/u/82474669?s=400&u=509537bc1ee4fb1ece87e1e95946c7a9aa53860b&v=4" align="right" width="25%" />
 </a>
 
-<div align="center"><ins>
+<div align="center">
 
 #### About me
 
-</ins></div>
+</div>
 
 <hr>
 <h3>
