@@ -1,3 +1,7 @@
+<div style="display: inline-flex; width: 25px; height: 10000px;">
+  <hr style="margin: 0px 0px 0px 12.5px;">
+</div>
+
 <img src="https://i.imgur.com/lRzzpEU.png"></img>
 
 <div align="center">
