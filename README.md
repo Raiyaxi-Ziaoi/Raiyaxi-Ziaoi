@@ -72,15 +72,19 @@
 
 <br/><br/>
 
-![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/overview.svg#gh-dark-mode-only)
+<div width="100">
+    <img align="left" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/overview.svg#gh-dark-mode-only">
+</div>
 
-![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/languages.svg#gh-dark-mode-only)
+<div width="100">
+    <img align="right" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/languages.svg#gh-dark-mode-only">
+</div>
 
 <br/>
 
 <!--https://github.com/jstrieb/github-stats-->
 
-#### Frameworks / API's
+#### Frameworks && API's
 
 <hr>
 <div align="left">
@@ -114,7 +118,7 @@
     <br/>
 </div>
 
-#### Favourite IDE's / Text Editors
+#### IDE's && Text Editors
 
 <hr>
 <div align="left">
@@ -152,7 +156,7 @@
     <br/>
 </div>
 
-#### Tools / Services
+#### Tools && Services
 
 <hr>
 <div align="left">
