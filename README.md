@@ -46,6 +46,8 @@
     I also make stuff that I think is quite cool. <br/>
 </h3>
 
+<hr>
+
 #### Languages
 
 <hr>
@@ -85,6 +87,8 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<hr>
+
 #### Frameworks && API's
 
 <hr>
@@ -118,6 +122,8 @@
     </code>
     <br/>
 </div>
+
+<hr>
 
 #### IDE's && Text Editors
 
@@ -157,6 +163,8 @@
     <br/>
 </div>
 
+<hr>
+
 #### Tools && Services
 
 <hr>
@@ -182,6 +190,7 @@
     </code>
     <br/>
 </div>
+<hr>
 
 #### Statistics
 
@@ -193,6 +202,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
 
 </div>
+
+<hr>
 
 #### Interests
 
@@ -225,6 +236,7 @@
         </ul>
     </ul></b>
 </div>
+<hr>
 
 #### Top Repositories
 
