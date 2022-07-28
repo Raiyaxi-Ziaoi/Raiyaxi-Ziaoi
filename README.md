@@ -145,6 +145,10 @@
     <code>
         <img height="70" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/arduino/arduino.png">
     </code>
+         &nbsp;
+    <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fbrackets-logo.png&f=1&nofb=1">
+    </code>
     <br/>
 </div>
 
