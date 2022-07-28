@@ -72,17 +72,18 @@
 
 <br/><br/>
 
-<div width="100">
-    <img align="left" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/overview.svg#gh-dark-mode-only">
-</div>
-
-<div width="100">
-    <img align="right" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/languages.svg#gh-dark-mode-only">
+<div align="center">
+    <div width="100">
+        <img align="left" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/overview.svg#gh-dark-mode-only">
+    </div>
+    <div width="100">
+        <img align="right" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/languages.svg#gh-dark-mode-only">
+    </div>
 </div>
 
 <!--https://github.com/jstrieb/github-stats-->
 
-<br/><br/><br/><br/><br/>
+<br/>
 
 #### Frameworks && API's
 
