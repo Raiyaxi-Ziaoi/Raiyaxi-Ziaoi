@@ -250,20 +250,6 @@
 <br/><br/><br/><br/>
 
 <div width="100">
-    <a align="center" href="https://github.com/Raiyaxi-Ziaoi/Arduino-Projects" title="Arduino Projects">
-        <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Arduino-Projects&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
-    </a>
-</div>
-
-<div width="100">
-    <a href="https://github.com/Raiyaxi-Ziaoi/Prebuilt-C-Functions" title="Prebuilt C Functions">
-        <img align="right" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Prebuilt-C-Functions&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
-     </a>
-</div>
-
-<br/><br/><br/><br/>
-
-<div width="100">
     <a align="center" href="https://github.com/Raiyaxi-Ziaoi/LOR" title="LOR">
         <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=LOR&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
