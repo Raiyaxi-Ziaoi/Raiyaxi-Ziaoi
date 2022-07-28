@@ -195,13 +195,18 @@
 #### Statistics
 
 <hr>
-<div align="left">
+<div width="100">
+    <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api?username=Raiyaxi-Ziaoi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=20BB5E&hide_border=true">
+</div>
+
+<div width="100">
+    <img align="right" height="%100" width="%100"src="http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j">
+</div>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyaxi-Ziaoi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=20BB5E&hide_border=true)](#)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
 
-</div>
 
 <hr>
 
@@ -281,13 +286,14 @@
         <img align="right" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Terminal-Tables&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
 </div>
+<hr>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories"> 
     -- Show More -- 
- </a>
+  </a>
 </h4>
 
 <h2 align="center">
