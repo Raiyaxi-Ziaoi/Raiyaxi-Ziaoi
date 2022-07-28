@@ -195,18 +195,10 @@
 #### Statistics
 
 <hr>
-<div width="100">
-    <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api?username=Raiyaxi-Ziaoi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=20BB5E&hide_border=true">
-</div>
-
-<div width="100">
-    <img align="right" height="%100" width="%100"src="http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j">
-</div>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyaxi-Ziaoi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=20BB5E&hide_border=true)](#)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
-
 
 <hr>
 
