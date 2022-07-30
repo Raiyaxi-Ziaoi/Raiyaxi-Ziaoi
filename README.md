@@ -40,10 +40,12 @@
 </div>
 
 <hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=708090&lines=My+name+is+Raiyaxi+Ziaoi.+I+enjoy;CS%2C+languages+and+other+fun+things.;I+also+make+stuff+that+I+think+is+pretty+cool.)](https://git.io/typing-svg)
+
 <h3>
-    My name is Raiyaxi Ziaoi. I enjoy CS, languages and other fun things. <br/>
     <br/>
-    I also make stuff that I think is quite cool. <br/>
+    <br/>
+     <br/>
 </h3>
 
 <hr>
