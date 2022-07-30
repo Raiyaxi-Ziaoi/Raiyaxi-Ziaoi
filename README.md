@@ -114,10 +114,6 @@
     </code>
         &nbsp;
     <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fbootstrap-6-1175203.png&f=1&nofb=1">
-    </code>
-        &nbsp;
-    <code>
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcloud.google.com%2Fimages%2Fproducts%2Fkotlin%2Fktor-logo.png&f=1&nofb=1">
     </code>
     <br/>
