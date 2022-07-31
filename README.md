@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/lRzzpEU.png"></img>
 
 <div align="center">
-<h2 style="font-color: dimslategrey;">
+<h2 style="font-color: darkslategrey;">
         Good morning, peace be upon you my friends!
         <br/>
 </h2>
