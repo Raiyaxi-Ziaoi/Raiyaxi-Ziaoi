@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/lRzzpEU.png"></img>
 
 <div align="center">
-<h2>
+<h2 style="font-color: dimslategrey;">
         Good morning, peace be upon you my friends!
         <br/>
 </h2>
@@ -212,7 +212,7 @@
             <ul>
                 <li>Java, Python, C# ✨</li>
                 <li>Kotlin, Dart, Rust 🤔</li>
-                <li>JS / TS, C / C++, Ruby, Julia 📚</li>
+                <li>JS / TS, C / C++, C#, Ruby, Julia 📚</li>
             </ul>
         </ul>
         <li>Languages:</li>
