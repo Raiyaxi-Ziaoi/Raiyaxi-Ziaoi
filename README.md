@@ -212,7 +212,7 @@
             <ul>
                 <li>Java, Python, C# ✨</li>
                 <li>Kotlin, Dart, Rust 🤔</li>
-                <li>JS / TS, C / C++, Ruby, Julia 📚</li>
+                <li>JS / TS, C / C++, Ruby, Julia, Go 📚</li>
             </ul>
         </ul>
         <li>Languages:</li>
