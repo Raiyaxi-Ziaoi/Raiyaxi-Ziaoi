@@ -278,6 +278,10 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<a href="https://app.daily.dev/Raiyaxi_Ziaoi"><img src="https://api.daily.dev/devcards/c4e40472821a478483595c33e229c2f0.png?r=vt7" width="400" alt="Raiyaxi Ziaoi's Dev Card"/></a>
+
+<br/>
+
 <h4 align="center">
   <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories"> 
     -- Show More -- 
