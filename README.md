@@ -278,7 +278,9 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<a href="https://app.daily.dev/Raiyaxi_Ziaoi" align="center"><img src="https://api.daily.dev/devcards/c4e40472821a478483595c33e229c2f0.png?r=vt7" width="400" alt="Raiyaxi Ziaoi's Dev Card"/></a>
+<div align="center">
+    <a href="https://app.daily.dev/Raiyaxi_Ziaoi"><img src="https://api.daily.dev/devcards/c4e40472821a478483595c33e229c2f0.png?r=vt7" width="400" alt="Raiyaxi Ziaoi's Dev Card"/></a>
+</div>
 
 <br/>
 
