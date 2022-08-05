@@ -237,8 +237,8 @@
 <br/>
 
 <div width="100">
-    <a href="https://github.com/Raiyaxi-Ziaoi/Bookmark-Manager" title="Bookmark Manager">
-        <img align="left" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Bookmark-Manager&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
+    <a href="https://github.com/Raiyaxi-Ziaoi/Depot" title="Bookmark Manager">
+        <img align="left" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Depot&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
 </div>
 
@@ -250,8 +250,8 @@
 <br/><br/><br/><br/>
 
 <div width="100">
-    <a href="https://github.com/Raiyaxi-Ziaoi/Note-Searcher" title="Note Searcher">
-        <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Note-Searcher&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
+    <a href="https://github.com/Raiyaxi-Ziaoi/Scrubber" title="Scrubber">
+        <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Scrubber&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
 </div>
 
