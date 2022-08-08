@@ -237,8 +237,8 @@
 <br/>
 
 <div width="100">
-    <a href="https://github.com/Raiyaxi-Ziaoi/Depot" title="Bookmark Manager">
-        <img align="left" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Depot&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
+    <a href="https://github.com/Raiyaxi-Ziaoi/Register" title="Register">
+        <img align="left" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Register&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
 </div>
 
@@ -264,14 +264,14 @@
 <br/><br/><br/><br/>
 
 <div width="100">
-    <a align="center" href="https://github.com/Raiyaxi-Ziaoi/LOR" title="LOR">
-        <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=LOR&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
+    <a align="center" href="https://github.com/Raiyaxi-Ziaoi/ALNOOR" title="ALNOOR">
+        <img align="left" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=ALNOOR&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
 </div>
 
 <div width="100">
-    <a align="center" href="https://github.com/Raiyaxi-Ziaoi/Terminal-Tables" title="LOR">
-        <img align="right" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Terminal-Tables&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
+    <a align="center" href="https://github.com/Raiyaxi-Ziaoi/Desk" title="Desk">
+        <img align="right" height="%100" width="%100"src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Desk&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
     </a>
 </div>
 <hr>
@@ -291,7 +291,7 @@
 </h4>
 
 <h2 align="center">
-  This was copied from my fellow اخ, Ahmed Al-Taie. His profile is 
+  This was inspired by my fellow اخ, Ahmed Al-Taie's profile. It's 
   <a href="https://github.com/Al-Taie" title="Al-Taie">here<a>. 
   شكرا! :) 
 </h2>
