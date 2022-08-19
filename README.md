@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>
-        Good morning, peace be upon you my friends!
+        Good morning, peace be with you, my friends!
         <br/>
 </h2>
 <hr>
@@ -16,7 +16,7 @@
         !सुप्रभात, अस्सलमु अलयकुम मेरे दोस्तों
         <br/>
         <br/>
-        !Günaydın, selamun aleykum ey arkadaşımlar 
+        !Günaydın, selamun aleykum ey arkadaşlarım
         <br/>
         <br/>
         صبح بخیر، السلام علیکم ای دوستانم!
