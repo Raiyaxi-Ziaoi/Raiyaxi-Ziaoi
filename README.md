@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/lRzzpEU.png"></img>
+<img src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Resources/main/bismillah.png?token=GHSAT0AAAAAABXCMKG533RUMQ4V6F5TPBJWYYH3CRQ
+"></img>
 
 <div align="center">
 <h2>
@@ -50,7 +51,7 @@
 #### Languages
 
 <hr>
-<div align="left"> 
+<div align="left">
     <code>
         <img height="70" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1536x868.png">
     </code>
@@ -132,7 +133,7 @@
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F80%2FAtom_editor_logo.svg%2F1118px-Atom_editor_logo.svg.png&f=1&nofb=1">
     </code>
          &nbsp;
-    <code> 
+    <code>
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fintellij-idea-logo.png&f=1&nofb=1">
     </code>
          &nbsp;
@@ -164,7 +165,7 @@
 
 <hr>
 <div align="left">
-    <code> 
+    <code>
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-vitejs-vite_-_2021-02-20_21-03-38%2Fcover.jpg&f=1&nofb=1">
     </code>
          &nbsp;
@@ -285,15 +286,15 @@
 <br/>
 
 <h4 align="center">
-  <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories"> 
-    -- Show More -- 
+  <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories">
+    -- Show More --
   </a>
 </h4>
 
 <h2 align="center">
-  This was inspired by my fellow اخ, Ahmed Al-Taie's profile. It's 
-  <a href="https://github.com/Al-Taie" title="Al-Taie">here<a>. 
-  شكرا! :) 
+  This was inspired by my fellow اخ, Ahmed Al-Taie's profile. It's
+  <a href="https://github.com/Al-Taie" title="Al-Taie">here<a>.
+  شكرا! :)
 </h2>
 <br/><br/>
 
