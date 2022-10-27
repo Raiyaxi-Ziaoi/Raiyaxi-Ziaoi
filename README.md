@@ -72,7 +72,7 @@
     </code>
          &nbsp;
     <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fit-solutions.center%2Fwp-content%2Fuploads%2F2018%2F11%2F0_JLPdbimCEnWB8qJL.png&f=1&nofb=1&ipt=d800bc027b199bdec115ab24db75004b3488858e84f3d881c66f8c2d55a7c866&ipo=images">
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Fpng_logo_vector%2Fc.png&f=1&nofb=1&ipt=031e111536d4eabc27d45e884fabf161b2bf44389d2e53f8471a495305518d30&ipo=images">
     </code>
          &nbsp;
     <code>
