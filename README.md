@@ -64,7 +64,19 @@
     </code>
          &nbsp;
     <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fc-programming-569564.png&f=1&nofb=1&ipt=807491480012787dcc905112d933592ac3263f513d69077ed25cf77f14233537&ipo=images">
+    </code>
+         &nbsp;
+    <code>
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Ffull%2F981-9813175_c-png.png&f=1&nofb=1&ipt=e925a12cbf42367d32006871c995862496ea8543d3fa7f723fb4a1742d422e94&ipo=images">
+    </code>
+         &nbsp;
+    <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fit-solutions.center%2Fwp-content%2Fuploads%2F2018%2F11%2F0_JLPdbimCEnWB8qJL.png&f=1&nofb=1&ipt=d800bc027b199bdec115ab24db75004b3488858e84f3d881c66f8c2d55a7c866&ipo=images">
+    </code>
+         &nbsp;
+    <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Flogo-javascript-logo.png&f=1&nofb=1&ipt=a60750a2734f251d6633980223cbc8d3cbfa176242cd17c63284550d3ceb977b&ipo=images">
     </code>
          &nbsp;
     <code>
