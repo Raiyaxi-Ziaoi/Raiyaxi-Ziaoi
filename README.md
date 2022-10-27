@@ -123,10 +123,6 @@
     <code>
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsveltejs%2Fsvelte%2F29052aba7d0b78316d3a52aef1d7ddd54fe6ca84%2Fsite%2Fstatic%2Fimages%2Fsvelte-android-chrome-512.png&f=1&nofb=1">
     </code>
-        &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcloud.google.com%2Fimages%2Fproducts%2Fkotlin%2Fktor-logo.png&f=1&nofb=1">
-    </code>
     <br/>
 </div>
 
@@ -176,10 +172,6 @@
 
 <hr>
 <div align="left">
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farchive.org%2Fdownload%2Fgithub.com-vitejs-vite_-_2021-02-20_21-03-38%2Fcover.jpg&f=1&nofb=1">
-    </code>
-         &nbsp;
     <code>
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FBlender-Embleme-1536x869.png&f=1&nofb=1">
     </code>
