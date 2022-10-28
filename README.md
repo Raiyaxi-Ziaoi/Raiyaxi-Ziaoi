@@ -208,28 +208,31 @@
     <b><ul>
         <li>CS:</li>
         <ul>
-            <li>CS for Medicine</li>
-            <li>Cryptography & Cybersecurity</li>
-            <li>ML & AI</li>
-            <li>Web 🌐, Mobile 📱, Desktop 💻 & Game 🎮 Dev</li>
-            <li>Programming:</li>
-            <ul>
-                <li>Java, Python, C# ✨</li>
-                <li>Kotlin, Dart, Rust 🤔</li>
-                <li>JS / TS, C / C++, Go 📚</li>
-            </ul>
+            <li>&nbsp;Systems Developer</li>
+                <li>&nbsp;CS for Medicine</li>
+                <li>&nbsp;Cryptography & Cybersecurity</li>
+                <li>&nbsp;ML & AI</li>
+                <li>&nbsp;Programming:</li>
+                <ul>
+                    <li>Java, Python, C#, C / C++ ✨</li>
+                    <li>Rust, Dart, JS / TS 🤔</li>
+                    <li>Kotlin, Clojure, Elixir 📚</li>
+                </ul>
+              </ul>
         </ul>
         <li>Languages:</li>
         <ul>
-            <li>English, Bengali, Hindi ✨</li>
-            <li>Urdu, Arabic 🤔</li>
-            <li>Turkish, Persian, French 📚</li>
-            <li>Russian, Japanese, Chinese, Korean, Indoneasian, Greek ✏️</li>
+            <li>&nbsp;English, Bengali, Hindi ✨&nbsp;&nbsp;&nbsp;</li>
+                <li>&nbsp;Urdu, Arabic 🤔</li>
+                <li>&nbsp;Turkish, Persian, French 📚</li>
+                <li>&nbsp;Russian, Japanese, <br />&nbsp;Chinese, Korean,<br />&nbsp;Indoneasian, Greek,<br/>&nbsp;Hebrew✏️</li>
         </ul>
         <li>Other:</li>
         <ul>
-            <li>Poetry 📜, Mathematics & Science 🔬</li>
-            <li>Anime 💻, Games 🎮</li>
+            <li>&nbsp;Poetry 📜</li>
+            <li>&nbsp;Mathematics ✏️</li>
+            <li>&nbsp;Science 🔬</li>
+            <li>&nbsp;Qur'an & Hadith 📚</li>
         </ul>
     </ul></b>
 </div>
