@@ -225,7 +225,7 @@
             <li>&nbsp;English, Bengali, Hindi ✨&nbsp;&nbsp;&nbsp;</li>
                 <li>&nbsp;Urdu, Arabic 🤔</li>
                 <li>&nbsp;Turkish, Persian, French 📚</li>
-                <li>&nbsp;Russian, Japanese, <br />&nbsp;Chinese, Korean,<br />&nbsp;Indoneasian, Greek,<br/>&nbsp;Hebrew✏️</li>
+                <li>&nbsp;Russian, Japanese, <br />&nbsp;Chinese, Korean,<br />&nbsp;Indoneasian, Greek,<br/>&nbsp;Hebrew, Polish, Filipino✏️</li>
         </ul>
         <li>Other:</li>
         <ul>
@@ -233,6 +233,8 @@
             <li>&nbsp;Mathematics ✏️</li>
             <li>&nbsp;Science 🔬</li>
             <li>&nbsp;Qur'an & Hadith 📚</li>
+            <li>&nbsp;History 🔬</li>
+            <li>&nbsp;Philisophy 📜</li>
         </ul>
     </ul></b>
 </div>
