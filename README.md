@@ -231,12 +231,12 @@
         </ul>
         <li>Other:</li>
         <ul>
-            <li>&nbsp;Poetry 📜</li><br/>
-            <li>&nbsp;Mathematics ✏️</li><br/>
-            <li>&nbsp;Science 🔬</li><br/>
-            <li>&nbsp;Qur'an & Hadith 📚</li><br/>
-            <li>&nbsp;History 🔬</li><br/>
-            <li>&nbsp;Philisophy 📜</li><br/>
+            <li>&nbsp;Poetry 📜</li>
+            <li>&nbsp;Mathematics ✏️</li>
+            <li>&nbsp;Science 🔬</li>
+            <li>&nbsp;Qur'an & Hadith 📚</li>
+            <li>&nbsp;History 🔬</li>
+            <li>&nbsp;Philisophy 📜</li>
         </ul>
     </ul></b>
 </div>
