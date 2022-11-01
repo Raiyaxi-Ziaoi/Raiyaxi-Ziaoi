@@ -208,33 +208,35 @@
     <b><ul>
         <li>CS:</li>
         <ul>
-            <li>&nbsp;Systems Developer</li>
-                <li>&nbsp;CS for Medicine</li>
-                <li>&nbsp;Cryptography & Cybersecurity</li>
-                <li>&nbsp;ML & AI</li>
-                <li>&nbsp;Programming:</li>
-                <ul>
-                    <li>Java, Python, C#, C / C++ ✨</li>
-                    <li>Rust, Dart, JS / TS 🤔</li>
-                    <li>Kotlin, Clojure, Elixir 📚</li>
-                </ul>
-              </ul>
+            <li>&nbsp;Systems & Web Developer</li>
+            <li>&nbsp;CS in Medicine</li>
+            <li>&nbsp;Cryptography & Cybersecurity</li>
+            <li>&nbsp;ML & AI</li>
+            <br/>
+            <li>&nbsp;Programming Languages:</li>
+            <ul>
+                <li>Java, Python, C#,<br/>C / C++, JS / TS ✨</li>
+                <li>Rust, Dart, Kotlin 🤔</li>
+                <li>Clojure, Racket, Elixir 📚</li>
+            </ul>
+        </ul>
         </ul>
         <li>Languages:</li>
         <ul>
-            <li>&nbsp;English, Bengali, Hindi ✨&nbsp;&nbsp;&nbsp;</li>
-                <li>&nbsp;Urdu, Arabic 🤔</li>
-                <li>&nbsp;Turkish, Persian, French 📚</li>
-                <li>&nbsp;Russian, Japanese, <br />&nbsp;Chinese, Korean,<br />&nbsp;Indoneasian, Greek,<br/>&nbsp;Hebrew, Polish, Filipino✏️</li>
+            <li>&nbsp;English, Bengali, Hindi ✨&nbsp;&nbsp;&nbsp;</li><br/>
+            <li>&nbsp;Urdu, Arabic 🤔</li><br/>
+            <li>&nbsp;Turkish, Persian, French 📚</li><br/>
+            <li>&nbsp;Hebrew, Russian, Polish,<br/>&nbsp;Japanese, Chinese, Korean,<br />&nbsp;Indoneasian, Greek,
+            <br/>&nbsp;Filipino✏️</li>
         </ul>
         <li>Other:</li>
         <ul>
-            <li>&nbsp;Poetry 📜</li>
-            <li>&nbsp;Mathematics ✏️</li>
-            <li>&nbsp;Science 🔬</li>
-            <li>&nbsp;Qur'an & Hadith 📚</li>
-            <li>&nbsp;History 🔬</li>
-            <li>&nbsp;Philisophy 📜</li>
+            <li>&nbsp;Poetry 📜</li><br/>
+            <li>&nbsp;Mathematics ✏️</li><br/>
+            <li>&nbsp;Science 🔬</li><br/>
+            <li>&nbsp;Qur'an & Hadith 📚</li><br/>
+            <li>&nbsp;History 🔬</li><br/>
+            <li>&nbsp;Philisophy 📜</li><br/>
         </ul>
     </ul></b>
 </div>
