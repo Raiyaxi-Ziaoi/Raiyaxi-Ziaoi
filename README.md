@@ -226,7 +226,7 @@
             <li>&nbsp;English, Bengali, Hindi ✨&nbsp;&nbsp;&nbsp;</li><br/>
             <li>&nbsp;Urdu, Arabic 🤔</li><br/>
             <li>&nbsp;Turkish, Persian, French 📚</li><br/>
-            <li>&nbsp;Hebrew, Russian, Polish,<br/>&nbsp;Japanese, Chinese, Korean,<br />&nbsp;Indoneasian, Greek,
+            <li>&nbsp;Hebrew, Russian, Polish,<br/>&nbsp;Japanese, Chinese, Korean,<br />&nbsp;Indonesian, Greek,
             <br/>&nbsp;Filipino✏️</li>
         </ul>
         <li>Other:</li>
