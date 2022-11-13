@@ -215,7 +215,7 @@
             <br/>
             <li>&nbsp;Programming Languages:</li>
             <ul>
-                <li>Java, Python, C#,<br/>C / C++, JS / TS ✨</li>
+                <li>Java, Python, C,<br/>C++, JS / TS ✨</li>
                 <li>Rust, Dart, Kotlin 🤔</li>
                 <li>Clojure, Julia, Elixir 📚</li>
             </ul>
