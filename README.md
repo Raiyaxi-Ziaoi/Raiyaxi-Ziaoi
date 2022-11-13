@@ -86,9 +86,6 @@
       <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclojure.paris%2Fimg%2Fclojure-logo.png&f=1&nofb=1&ipt=6ccd0a21d172243045b7971f69376bc43cd0e262f11b79805181ee5165f6bf6b&ipo=images">
     </code>
       &nbsp;
-      <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.523082057.3080%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.jpg&f=1&nofb=1&ipt=f9e3560c6bb20d7ee70d6475e83ab189620694ffa05e35d5b0b9baec0059396c&ipo=images">
-      </code>
 <br/><br/>
 
 <div align="center">
