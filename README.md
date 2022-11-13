@@ -217,7 +217,7 @@
             <ul>
                 <li>Java, Python, C#,<br/>C / C++, JS / TS ✨</li>
                 <li>Rust, Dart, Kotlin 🤔</li>
-                <li>Clojure, Racket, Elixir 📚</li>
+                <li>Clojure, Julia, Elixir 📚</li>
             </ul>
         </ul>
         </ul>
