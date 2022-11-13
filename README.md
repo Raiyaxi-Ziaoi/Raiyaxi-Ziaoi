@@ -72,17 +72,23 @@
     </code>
          &nbsp;
     <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Fpng_logo_vector%2Fc.png&f=1&nofb=1&ipt=031e111536d4eabc27d45e884fabf161b2bf44389d2e53f8471a495305518d30&ipo=images">
-    </code>
-         &nbsp;
-    <code>
         <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Flogo-javascript-logo.png&f=1&nofb=1&ipt=a60750a2734f251d6633980223cbc8d3cbfa176242cd17c63284550d3ceb977b&ipo=images">
     </code>
          &nbsp;
     <code>
-        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+      <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.SwI4JNcok6yj8b6a0MykvgHaHa%26pid%3DApi&f=1&ipt=780f968a8c392f90a2299259c1bc876695c482dead320d18f5b9a5a37cc58381&ipo=images">
     </code>
-
+    <code>
+      <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+    </code>
+         &nbsp;
+    <code>
+      <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclojure.paris%2Fimg%2Fclojure-logo.png&f=1&nofb=1&ipt=6ccd0a21d172243045b7971f69376bc43cd0e262f11b79805181ee5165f6bf6b&ipo=images">
+    </code>
+      &nbsp;
+      <code>
+        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.523082057.3080%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.jpg&f=1&nofb=1&ipt=f9e3560c6bb20d7ee70d6475e83ab189620694ffa05e35d5b0b9baec0059396c&ipo=images">
+      </code>
 <br/><br/>
 
 <div align="center">
@@ -225,7 +231,7 @@
         <ul>
             <li>&nbsp;English, Bengali, Hindi ✨&nbsp;&nbsp;&nbsp;</li><br/>
             <li>&nbsp;Urdu, Arabic 🤔</li><br/>
-            <li>&nbsp;Turkish, Persian, French 📚</li><br/>
+            <li>&nbsp;Turkish, Farsi, French 📚</li><br/>
             <li>&nbsp;Hebrew, Russian, Polish,<br/>&nbsp;Japanese, Chinese, Korean,<br />&nbsp;Indonesian, Greek,
             <br/>&nbsp;Filipino✏️</li>
         </ul>
