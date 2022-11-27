@@ -52,7 +52,9 @@
 <hr>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,rust,js,html,css,ts,clojure,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,clojure,julia,elixir&theme=dark)](https://skillicons.dev)
 </div>
 
 <!--https://github.com/jstrieb/github-stats-->
@@ -76,9 +78,7 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=blender,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=git,bash,powershell,nodejs&theme=dark)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=processing,unity,svelte,flutter&theme=dark)](https://skillicons.dev)
 <br/>
 </div>
@@ -92,47 +92,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
 
-<hr>
-
-#### Interests
-
-<hr>
-<div align="left">
-    <b><ul>
-        <li>CS:</li>
-        <ul>
-            <li>&nbsp;Systems & Web Developer</li>
-            <li>&nbsp;CS in Medicine</li>
-            <li>&nbsp;Cryptography & Cybersecurity</li>
-            <li>&nbsp;ML & AI</li>
-            <br/>
-            <li>&nbsp;Programming Languages:</li>
-            <ul>
-                <li>Java, Python, C,<br/>C++, JS / TS ✨</li>
-                <li>Rust, Dart, Kotlin 🤔</li>
-                <li>Clojure, Julia, Elixir 📚</li>
-            </ul>
-        </ul>
-        </ul>
-        <li>Languages:</li>
-        <ul>
-            <li>&nbsp;English, Bengali, Hindi ✨&nbsp;&nbsp;&nbsp;</li><br/>
-            <li>&nbsp;Urdu, Arabic 🤔</li><br/>
-            <li>&nbsp;Turkish, Farsi, French 📚</li><br/>
-            <li>&nbsp;Hebrew, Russian, Polish,<br/>&nbsp;Japanese, Chinese, Korean,<br />&nbsp;Indonesian, Greek,
-            <br/>&nbsp;Filipino, German✏️</li>
-        </ul>
-        <li>Other:</li>
-        <ul>
-            <li>&nbsp;Poetry 📜</li>
-            <li>&nbsp;Mathematics ✏️</li>
-            <li>&nbsp;Science 🔬</li>
-            <li>&nbsp;Qur'an & Hadith 📚</li>
-            <li>&nbsp;History 🔬</li>
-            <li>&nbsp;Philisophy 📜</li>
-        </ul>
-    </ul></b>
-</div>
 <hr>
 
 #### Top Repositories
