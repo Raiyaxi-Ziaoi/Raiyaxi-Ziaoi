@@ -57,8 +57,6 @@
 
 <!--https://github.com/jstrieb/github-stats-->
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <hr>
 
 #### Text Editors
