@@ -53,8 +53,11 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=rust,clojure,kotlin,julia&theme=dark)](https://skillicons.dev)
+
 </div>
 
 <!--https://github.com/jstrieb/github-stats-->
@@ -78,8 +81,11 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=blender,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=git,bash,powershell,nodejs&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=processing,unity,svelte,flutter&theme=dark)](https://skillicons.dev)
+
 <br/>
 </div>
 <hr>
