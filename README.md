@@ -50,7 +50,7 @@
 #### Languages
 
 <hr>
-<div align="left">
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,rust,js,html,css,ts,clojure,&theme=dark)](https://skillicons.dev)
 </div>
@@ -62,7 +62,7 @@
 #### Text Editors
 
 <hr>
-<div align="left">
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,neovim&theme=dark)](https://skillicons.dev)
 <br/>
@@ -73,9 +73,13 @@
 #### Tools, Services & Applications
 
 <hr>
-<div align="left">
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=blender,nodejs,github,git,bash,powershell,processing,linux,unity,svelte,stackoverflow,flutter,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,bash,powershell,nodejs&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=processing,unity,svelte,flutter&theme=dark)](https://skillicons.dev)
 <br/>
 </div>
 <hr>
