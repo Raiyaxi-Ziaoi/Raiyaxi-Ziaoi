@@ -52,9 +52,9 @@
 <hr>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=rust,clojure,kotlin,julia&theme=dark)](https://skillicons.dev)
 
