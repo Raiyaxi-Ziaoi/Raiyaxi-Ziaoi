@@ -54,7 +54,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=rust,clojure,julia,elixir&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,clojure,kotlin,julia&theme=dark)](https://skillicons.dev)
 </div>
 
 <!--https://github.com/jstrieb/github-stats-->
