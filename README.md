@@ -51,50 +51,8 @@
 
 <hr>
 <div align="left">
-    <code>
-        <img height="70" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1536x868.png">
-    </code>
-        &nbsp;
-    <code>
-        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fc-programming-569564.png&f=1&nofb=1&ipt=807491480012787dcc905112d933592ac3263f513d69077ed25cf77f14233537&ipo=images">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiqh.gallerycdn.vsassets.io%2Fextensions%2Fmiqh%2Fvscode-language-rust%2F0.14.0%2F1536151476041%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1">
-    </code>
-        &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Ffull%2F981-9813175_c-png.png&f=1&nofb=1&ipt=e925a12cbf42367d32006871c995862496ea8543d3fa7f723fb4a1742d422e94&ipo=images">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Flogo-javascript-logo.png&f=1&nofb=1&ipt=a60750a2734f251d6633980223cbc8d3cbfa176242cd17c63284550d3ceb977b&ipo=images">
-    </code>
-         &nbsp;
-    <code>
-      <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.SwI4JNcok6yj8b6a0MykvgHaHa%26pid%3DApi&f=1&ipt=780f968a8c392f90a2299259c1bc876695c482dead320d18f5b9a5a37cc58381&ipo=images">
-    </code>
-    <code>
-      <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-    </code>
-         &nbsp;
-    <code>
-      <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclojure.paris%2Fimg%2Fclojure-logo.png&f=1&nofb=1&ipt=6ccd0a21d172243045b7971f69376bc43cd0e262f11b79805181ee5165f6bf6b&ipo=images">
-    </code>
-      &nbsp;
-<br/><br/>
 
-<div align="center">
-    <div width="100">
-        <img align="left" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/overview.svg#gh-dark-mode-only">
-    </div>
-    <div width="100">
-        <img align="right" height="%100" width="%100"src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Github-Stats/master/generated/languages.svg#gh-dark-mode-only">
-    </div>
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,rust,js,html,css,ts,clojure,&theme=dark)](https://skillicons.dev)
 </div>
 
 <!--https://github.com/jstrieb/github-stats-->
@@ -103,94 +61,24 @@
 
 <hr>
 
-#### Frameworks && API's
+#### Text Editors
 
 <hr>
 <div align="left">
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2Ft84NGUdrRy69bwIK12Ml&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://fabacademy.org/2020/labs/talents/students/sarah-alghofaili/images/week13/Processing_3_logo-min.png">
-    </code>
-        &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsveltejs%2Fsvelte%2F29052aba7d0b78316d3a52aef1d7ddd54fe6ca84%2Fsite%2Fstatic%2Fimages%2Fsvelte-android-chrome-512.png&f=1&nofb=1">
-    </code>
-    <br/>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,neovim&theme=dark)](https://skillicons.dev)
+<br/>
 </div>
 
 <hr>
 
-#### IDE's && Text Editors
+#### Tools, Services & Applications
 
 <hr>
 <div align="left">
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F80%2FAtom_editor_logo.svg%2F1118px-Atom_editor_logo.svg.png&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fintellij-idea-logo.png&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mindrops.com%2Fimages%2Ftechnology-icon%2Feclipse-logo.png&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-RH0O7wYQXUc%2FVozSayGFPlI%2FAAAAAAAALjc%2Fnhg8bQ_PQR8%2Fs1600%2FAndroid_Studio_icon.svg.png&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F6471485%3Fv%3D3%26s%3D400&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/arduino/arduino.png">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fbrackets-logo.png&f=1&nofb=1">
-    </code>
-    <br/>
-</div>
 
-<hr>
-
-#### Tools && Services
-
-<hr>
-<div align="left">
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FBlender-Embleme-1536x869.png&f=1&nofb=1">
-    </code>
-         &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FNode_logo_NodeJS.png&f=1&nofb=1">
-    </code>
-        &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG67.png&f=1&nofb=1">
-    </code>
-        &nbsp;
-    <code>
-        <img height="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fitch-io-icon-512x512-wwio9bi8.png&f=1&nofb=1">
-    </code>
-    <br/>
+[![My Skills](https://skillicons.dev/icons?i=blender,nodejs,github,git,bash,powershell,processing,linux,unity,svelte,stackoverflow,flutter,&theme=dark)](https://skillicons.dev)
+<br/>
 </div>
 <hr>
 
@@ -230,7 +118,7 @@
             <li>&nbsp;Urdu, Arabic 🤔</li><br/>
             <li>&nbsp;Turkish, Farsi, French 📚</li><br/>
             <li>&nbsp;Hebrew, Russian, Polish,<br/>&nbsp;Japanese, Chinese, Korean,<br />&nbsp;Indonesian, Greek,
-            <br/>&nbsp;Filipino✏️</li>
+            <br/>&nbsp;Filipino, German✏️</li>
         </ul>
         <li>Other:</li>
         <ul>
