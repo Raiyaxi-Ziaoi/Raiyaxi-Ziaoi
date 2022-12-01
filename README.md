@@ -106,16 +106,12 @@
 </div>
 
 <div align="center">
-<div align="left">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyaxi-Ziaoi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=20BB5E&hide_border=true)](#)
 
-</div>
-<div align="right">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
 
-</div>
 </div>
 
 <hr>
