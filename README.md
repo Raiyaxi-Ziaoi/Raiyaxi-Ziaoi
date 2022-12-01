@@ -102,7 +102,7 @@
 </div>
 <div align="right">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyaxi-Ziaoi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=20BB5E&hide_border=true)](#)
+![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 </div>
 </div>
@@ -110,7 +110,7 @@
 <div align="center">
 <div align="left">
 
-![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyaxi-Ziaoi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&icon_color=20BB5E&hide_border=true)](#)
 
 </div>
 <div align="right">
