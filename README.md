@@ -94,7 +94,6 @@
 
 <hr>
 
-<div class="center">
 <div align="left">
 
 ![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
@@ -108,7 +107,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raiyaxi-Ziaoi&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](#)
 
-</div>
 </div>
 
 <hr>
