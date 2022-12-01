@@ -94,16 +94,8 @@
 
 <hr>
 
-<div align="left" hspace="20">
-
-![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-<div align="left" hspace="20">
-
-![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-</div>
+:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:
+![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/languages.svg#gh-dark-mode-only)  |  ![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <div align="center">
 
