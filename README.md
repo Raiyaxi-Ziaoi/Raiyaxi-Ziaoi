@@ -94,7 +94,6 @@
 
 <hr>
 
-<div align="center">
 <div align="left">
 
 ![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
@@ -104,7 +103,6 @@
 
 ![](https://raw.githubusercontent.com/Raiyaxi-Ziaoi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-</div>
 </div>
 
 <div align="center">
