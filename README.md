@@ -130,8 +130,8 @@
 </div>
 
 <div width="100">
-    <a  href="https://github.com/Raiyaxi-Ziaoi/Interest-Calculator" title="Indestructable Interest Calculator">
-        <img align="right" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=Interest-Calculator&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
+    <a  href="https://github.com/Raiyaxi-Ziaoi/ALKHAIR" title="ALKHAIR">
+        <img align="right" height="%100" width="%100" src="https://github-readme-stats.vercel.app/api/pin/?username=Raiyaxi-Ziaoi&repo=ALKHAIR&theme=dracula&icon_color=20BB5E&border_color=406CE0&border_radius=10">
      </a>
 </div>
 
