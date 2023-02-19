@@ -39,8 +39,6 @@
 
 <hr>
 
-<br/>
-
 #### Languages
 
 <div align="center">
