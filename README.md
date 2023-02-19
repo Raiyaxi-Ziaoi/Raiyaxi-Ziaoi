@@ -69,7 +69,7 @@
 <hr>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,neovim,processing&theme=dark)](https://skillicons.dev)
 <br/>
 </div>
 
@@ -83,8 +83,6 @@
 [![My Skills](https://skillicons.dev/icons?i=blender,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,bash,powershell,nodejs&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=processing,unity,svelte,flutter&theme=dark)](https://skillicons.dev)
 
 <br/>
 </div>
