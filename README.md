@@ -29,10 +29,6 @@
 </div>
 <hr>
 
-<a href="#">
-    <img src="https://avatars.githubusercontent.com/u/82474669?s=400&u=509537bc1ee4fb1ece87e1e95946c7a9aa53860b&v=4" align="right" width="25%" />
-</a>
-
 #### About me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=My+name+is+Raiyaxi+Ziaoi.+I+enjoy;CS%2C+languages+and+other+fun+things.;I+also+make+stuff+that+I+think+is+;pretty+cool.)](https://git.io/typing-svg)
