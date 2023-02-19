@@ -69,7 +69,7 @@
 <hr>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,neovim&theme=dark)](https://skillicons.dev)
 <br/>
 </div>
 
@@ -151,12 +151,6 @@
 <hr>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<div align="center">
-    <a href="https://app.daily.dev/Raiyaxi_Ziaoi"><img src="https://github.com/Raiyaxi-Ziaoi/Raiyaxi-Ziaoi/blob/main/devcard.svg" width="400" alt="Raiyaxi Ziaoi's Dev Card"/></a>
-</div>
-
-<br/>
 
 <h4 align="center">
   <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories">
