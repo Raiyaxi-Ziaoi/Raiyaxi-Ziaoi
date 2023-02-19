@@ -39,8 +39,6 @@
 
 </div>
 
-<hr>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=My+name+is+Raiyaxi+Ziaoi.+I+enjoy;CS%2C+languages+and+other+fun+things.;I+also+make+stuff+that+I+think+is+;pretty+cool.)](https://git.io/typing-svg)
 
 <hr>
@@ -49,7 +47,6 @@
 
 #### Languages
 
-<hr>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py&theme=dark)](https://skillicons.dev)
@@ -66,7 +63,6 @@
 
 #### Editors
 
-<hr>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,neovim,processing&theme=dark)](https://skillicons.dev)
@@ -77,7 +73,6 @@
 
 #### Tools
 
-<hr>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=blender,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
@@ -89,8 +84,6 @@
 <hr>
 
 #### Statistics
-
-<hr>
 
 <div align="center">
 
@@ -105,7 +98,6 @@
 
 #### Top Repositories
 
-<hr>
 <br/>
 
 <div width="100">
