@@ -42,8 +42,6 @@
 
 </div>
 
-<!--https://github.com/jstrieb/github-stats-->
-
 <hr>
 
 #### Editors
