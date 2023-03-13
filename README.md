@@ -1,4 +1,14 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Resources/main/borderseperator.gif"></img>
+<br/>
+</div>
+
 <img src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Resources/main/bismillah.png?token=GHSAT0AAAAAABXCMKG533RUMQ4V6F5TPBJWYYH3CRQ"></img>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Resources/main/borderseperator.gif"></img>
+<br/>
+</div>
 
 <div align="center">
 <h2>
