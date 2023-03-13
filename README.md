@@ -120,13 +120,18 @@
 </div>
 <hr>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Raiyaxi-Ziaoi?tab=repositories" title="Show Repositories">
     My Repositories
   </a>
 </h4>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Raiyaxi-Ziaoi/Resources/main/borderseperator.gif"></img>
+<br/>
+</div>
 
 <!---
 Raiyaxi-Ziaoi/Raiyaxi-Ziaoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
