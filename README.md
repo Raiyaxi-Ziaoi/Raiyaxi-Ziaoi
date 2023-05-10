@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=My+name+is+Raiyaxi+Ziaoi.+I+enjoy;CS%2C+languages+and+other+fun+things.;I+also+make+stuff+that+I+think+is+;pretty+cool.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Arabic&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=140&lines=%3A%D8%B9%D9%86%D8%AF%D9%85%D8%A7+%D8%AA%D8%B4%D8%B1%D9%82+%D8%A7%D9%84%D8%B4%D9%85%D8%B3+%D9%85%D9%86+%D8%A7%D9%84%D8%BA%D8%B1%D8%A8;+;%22%D9%81%D9%8E%D8%A8%D9%90%D8%A3%D9%8E%D9%8A%D9%90%D9%91+%D8%A2%D9%84%D8%A7%D8%A1+%D8%B1%D9%8E%D8%A8%D9%90%D9%91%D9%83%D9%8F%D9%85%D9%8E%D8%A7+%D8%AA%D9%8F%D9%83%D9%8E%D8%B0%D9%90%D9%91%D8%A8%D9%8E%D8%A7%D8%9F%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,6 +60,7 @@
 
 [![](https://skillicons.dev/icons?i=vscode,idea,neovim,processing&theme=dark)](https://skillicons.dev)
 <br/>
+
 </div>
 
 <hr>
