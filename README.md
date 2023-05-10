@@ -26,7 +26,10 @@
         !সুপ্রভাত, অস্সালামু অলায়কুম অমার বন্ধু-রা
         <br/>
         <br/>
-</h3>
+        Bonjour, que la paix soit sur avec vous tous, mes amis!
+        <br/>
+        <br/>
+    </h3>
 </div>
 <hr>
 
