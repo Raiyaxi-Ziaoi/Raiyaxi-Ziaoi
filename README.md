@@ -20,13 +20,13 @@
         صبح بخیر، السلام علیکم ای دوستانم!
         <br/>
         <br/>
-        !Günaydın, selamun aleykum ey arkadaşlarım
-        <br/>
-        <br/>
         !সুপ্রভাত, অস্সালামু অলায়কুম অমার বন্ধু-রা
         <br/>
         <br/>
-        Bonjour, que la paix soit sur avec vous tous, mes amis!
+        صبح بخیر، آپ کے ساتھ امن ہو، میرے دوستوں!
+        <br/>
+        <br/>
+        !Sbah dí lxér, s'lám-`lékm é 'xlálí
         <br/>
         <br/>
     </h3>
