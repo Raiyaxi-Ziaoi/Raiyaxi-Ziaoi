@@ -47,11 +47,11 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=java,c,cpp,py&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,cpp,c,py&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=rust,clojure,kotlin,julia&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,clojure,kotlin,julia,dart&theme=dark)](https://skillicons.dev)
 
 </div>
 
