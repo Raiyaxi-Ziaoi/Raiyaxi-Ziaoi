@@ -47,11 +47,11 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=java,cpp,c,py,rust&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,cs,cpp,c,py,rust&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=html,css,js,ts,php&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,ts,php,dart,lua&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=dart,clojure,kotlin,julia,v,zig&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=clojure,kotlin,julia,v,zig,elixir,haskell&theme=dark)](https://skillicons.dev)
 
 </div>
 
