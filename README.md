@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=vscode,idea,neovim,androidstudio&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,idea,neovim,visualstudio,androidstudio&theme=dark)](https://skillicons.dev)
 <br/>
 
 </div>
@@ -74,9 +74,9 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=blender,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=blender,github,stackoverflow,instagram,discord&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=git,bash,powershell,nodejs&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,git,bash,powershell,nodejs&theme=dark)](https://skillicons.dev)
 
 <br/>
 </div>
