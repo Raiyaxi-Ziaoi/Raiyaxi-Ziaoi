@@ -49,9 +49,9 @@
 
 [![](https://skillicons.dev/icons?i=java,cs,cpp,c,py,rust,dart&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=kotlin,lua,v,zig,nim,julia&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=kotlin,lua,julia,v,zig,nim,clojure,haskell&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=html,css,js,php,clojure,elixir,haskell&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,ts,php,elixir&theme=dark)](https://skillicons.dev)
 
 </div>
 
